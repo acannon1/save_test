@@ -1,0 +1,58 @@
+Name                          Account Number                Transaction Number            Merchant                      Transaction Amount            
+
+Michael Smith                 11111                         1                             CFA Institute                 1009.9                        
+
+Don Fuller                    53111                         1                             CFA Institute                 1009.9                        
+
+Mirasca Sam                   53222                         1                             CFA Institute                 1009.9                        
+
+Mirasca Sam                   53222                         10                            #VALUE!                       725.51                        
+
+Michael Smith                 11111                         15                            KROGER #2 4000 POLK           2300                          
+
+Morasca Simona                38829                         65                            CFA Institute                 1009.9                        
+
+Morasca Simona                38829                         129                           230 WEST ALABAMA APART        1263.27                       
+
+Morasca Simona                38829                         76                            230 WEST ALABAMA APART        1266.56                       
+
+Joseph Dark                   43991                         1                             CFA Institute                 1009.9                        
+
+Artie Venn                    44891                         10                            Best Buy		New                 10000                         
+
+John Doe                      22222                         10                            Best Buy		New                 10000                         
+
+Jane Doe                      33333                         1                             McDonalds                     1009.9                        
+
+Dilliard Leota                32628                         16                            IN *POOL TEC POOL AND         1677.85                       
+
+Jane Doe                      33333                         5                             McDonalds New                 525                           
+
+Inouye Veronika               33717                         97                            CINFIN-PERSONAL-INSUR         3785                          
+
+Inouye Veronika               33717                         15                            EXTREMETERRAIN.COM            522.14                        
+
+Inouye Veronika               33717                         43                            MIDWESTERN AUTO GROUP         3505.28                       
+
+Inouye Veronika               33717                         50                            EXTREMETERRAIN.COM            522.14                        
+
+Inouye Veronika               33717                         56                            Vrbo HAVV9W78                 565.25                        
+
+Rulapaugh Kati                31593                         2                             NORTH HOUSTON BEEMER L        859.75                        
+
+Klonowski Karl                25770                         31                            ENTERPRISE RENT-A-CAR         556.45                        
+
+Klusman Arlene                32764                         3                             FANDUEL/BETFAIR               690                           
+
+Maybury Marti                 19505                         2                             AFFILIATED ANESTHESIOL        624                           
+
+Dilliard Smith                54722                         1                             CFA Institute                 1009.9                        
+
+Anthony West                  54891                         1                             CFA Institute                 1009.9                        
+
+May Wilson                    54999                         1                             CFA Institute                 1009.9                        
+
+Monica Abel                   33555                         10                            Best Buy		New                 10000                         
+
+Ruth Green                    37222                         1                             SHELL OIL                     1009.9                        
+
